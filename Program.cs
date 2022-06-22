@@ -144,7 +144,7 @@ public class User
     }
     public string GetPass()
     {
-        return this.name;
+        return this.password;
     }
 
 }
